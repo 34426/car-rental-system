@@ -1,21 +1,18 @@
 # 汽车租赁系统
-
-
-### 有问题，或者需要协助调试运行项目的, 可以加QQ：2529519551，或者微信 ：xzxj0206 注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
+### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 有问题，或者需要协助调试运行项目的也可联系
 
 ### 更多项目： https://github.com/34426?tab=repositories
-
-
 
 ## 一、 介绍
 
 基于springboot+layui的汽车租赁系统
 
-## 二、 系统运行界面
+语言：java
 
-![img_1.png](imgs/img_1.png)
+运行工具：idea或eclipse 数据库：mysql
 
-## 三、 系统部分功能界面展示
+## 二、 系统部分功能界面展示
 
 ![img_11.png](imgs/img_11.png)
 
@@ -38,4 +35,7 @@
 ![img_9.png](imgs/img_9.png)
 
 ![img_10.png](imgs/img_10.png)
+
+
+
 
